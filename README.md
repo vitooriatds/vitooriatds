@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou @vitooriatds, bem vindos ao meu perfil.
-- 🌱 Uma desenvolvedora em desenvolvimento 👾
+- Olá, eu sou @vitooriatds, bem vindos ao meu perfil.
+- Uma desenvolvedora em desenvolvimento 👾
 - Python Js HTML CSS Júpiter SQLite Visual studio code
 
 <!---

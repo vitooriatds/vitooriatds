@@ -1,4 +1,4 @@
-- Olá, eu sou @vitooriatds, bem vindos ao meu perfil.
+- Olá, eu sou a Vitória, sejam bem vindos ao meu perfil.
 - Uma desenvolvedora em desenvolvimento 👾
 - Python Js HTML CSS Júpiter SQLite Visual studio code Django 
 
